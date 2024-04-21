@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/USERNAME.png" width="100px" alt="Profile Picture"/>
-  <h1>Hello, I'm [Your Name] 👋</h1>
+  <h1>Hello, I'm [Ghram Ahajy] 👋</h1>
 </div>
 
 ## About Me
