@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ghram Alhajy</h1>
 <h3 align="center">I'm a software engineer with over 2 years of experience in backend development. My expertise lies in building the backbone of applications, focusing on microservices, design patterns, and Java programming. 
-   Recently,
- <br> I've been diving into big data streaming and distributed systems like Kafka, Elasticsearch, and Hadoop. These projects involved a lot of dockerization and scripting, with some experience in dynamic programming.</h3>
+   <br>Recently, I've been diving into big data streaming and distributed systems like Kafka, Elasticsearch, and Hadoop. These projects involved a lot of dockerization and scripting, with some experience in dynamic programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghramcode18&label=Profile%20views&color=0e75b6&style=flat" alt="ghramcode18" /> </p>
 
