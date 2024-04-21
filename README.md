@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github.com/USERNAME.png" width="100px" alt="Profile Picture"/>
-  <h1>Hello, I'm [Ghram Ahajy] 👋</h1>
+  <img src="https://github.com/ghramcode18.png" width="100px" alt="Profile Picture"/>
+  <h1>Hello, I'm Ghram Ahajy 👋</h1>
 </div>
 
 ## About Me
