@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ghram Alhajy</h1>
-<h3 align="center">Software Engineer with 2+ years of backend development experience, specializing in Java Spring Boot and Microservices. Currently pursuing a degree in Software Engineering at Damascus University while working at Techno Vision. Experienced in Docker, with practical exposure to Elasticsearch and Kafka. Strong problem-solving skills with a commitment to continuous learning.
+<h3 align="center">Software Engineer with 2+ years of backend development experience, specializing in Java Spring Boot and Microservices. Currently pursuing a degree in Software Engineering at Damascus University while working at Latro Team. Experienced in Docker, with practical exposure to Elasticsearch and Kafka. Strong problem-solving skills with a commitment to continuous learning.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghramcode18&label=Profile%20views&color=0e75b6&style=flat" alt="ghramcode18" /> </p>
